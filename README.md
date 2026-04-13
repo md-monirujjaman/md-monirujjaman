@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert;AI+Integration+Specialist;Custom+AI+Assistant+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Web+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;;Lifelong+Learner" />
 
 <p align="center">
   <a href="https://monirujjaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
