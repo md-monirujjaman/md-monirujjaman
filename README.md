@@ -6,10 +6,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/md-monirujjaman?label=Followers&style=social" />
+ 
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Web+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;;Lifelong+Learner" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Web+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;;Lifelong+Learner" />
 
 <p align="center">
   <a href="https://monirujjaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
@@ -80,8 +82,10 @@ const monirujjaman = {
 
 
 <div align="center">
+ <h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">
+  Tech Stack & Tools
+</h1>
 
-## 🛠️ Tech Stack & Tools
 
 ### ⚡ Frontend Development
 <p align="center">
