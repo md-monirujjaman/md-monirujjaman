@@ -154,11 +154,14 @@ A high-performance monitoring dashboard designed for visualizing complex data se
 ---
 
 
-## 📊 GitHub Analytics
+
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=md-monirujjaman&theme=tokyonight&hide_border=true" />
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> GitHub Analytics</h1> 
+  
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=md-monirujjaman&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+
 <br>
   
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-monirujjaman&theme=react-dark&hide_border=true&area=true" />
