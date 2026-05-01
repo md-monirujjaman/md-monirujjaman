@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Continuous%20Learning%20%20|%20%20Scalable%20Building%20%20|%20%20Constant%20Evolution&descAlignY=58&descAlign=63" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=MD%20Monirujjaman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Continuous%20Learning%20%20|%20%20Scalable%20Building%20%20|%20%20Constant%20Evolution&descAlignY=58&descAlign=63" />
 
 
 <p align="center">
@@ -229,6 +229,6 @@ It motivates me to build more amazing things!
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
 
 </div>
