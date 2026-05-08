@@ -188,7 +188,7 @@ A high-performance monitoring dashboard designed for visualizing complex data se
 ✅ Secondary School Certificate (SSC)  
 ✅ Higher Secondary Certificate (HSC)  
 ✅ NSDA Certified  
-✅ Youth Development Training Program  
+✅ Youth Development Training Program (DYD) 
 
 ---
 
