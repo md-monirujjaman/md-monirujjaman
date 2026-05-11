@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=MD%20MONIRUJJAMAN&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Creative%20Soul%20%20|%20%20Code%20Obsessed%20%20|%20%20Future-Focused%20Developer&descAlignY=54&descAlign=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=MD%20MONIRUJJAMAN&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Creative%20Soul%20%20|%20%20Code%20Obsessed%20%20|%20%20Future-Focused%20Developer&descAlignY=54&descAlign=65&fontColor=ffffff" />
 
 
 <p align="center">
@@ -15,19 +15,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Web+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;;Lifelong+Learner" />
 
 <p align="center">
-  <!-- Social Media & Portfolio -->
-  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mdmonirujjaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mdmonirujjaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <br>
 
-  <!-- Competitive Programming Platforms -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-0f0c29?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-0f0c29?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/-HackerRank-0f0c29?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 </div>
 
