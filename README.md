@@ -56,7 +56,11 @@
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```javascript
 const monirujjaman = {
@@ -86,8 +90,31 @@ const monirujjaman = {
 };
 ```
 
----
+</td>
+<td width="45%" valign="top">
+  
+### 🎯 What I Do
 
+🤖 **Exploring AI Integration**  
+Building personal AI-driven projects like Aethera, focused on learning how to bridge LLMs with web applications.
+
+💡 **Build & Innovate**  
+Developing user-friendly MERN stack applications
+
+🔍 **Research & Explore**  
+Staying updated with cutting-edge technologies
+
+🌱 **Grow Continuously**  
+Mastering Data Structure & Algorithms
+
+✨ **Problem Solving Journey**  
+Continuously strengthening my core engineering skills through Data Structures and Algorithms.
+
+</td>
+</tr>
+</table>
+
+---
 
 
 <div align="center">
