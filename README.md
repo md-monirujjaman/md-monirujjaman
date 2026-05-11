@@ -228,7 +228,7 @@ It motivates me to build more amazing things!
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20Views&color=0f0c29&style=for-the-badge" />
 
 
 <br><br>
@@ -237,6 +237,6 @@ It motivates me to build more amazing things!
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&text=THE%20END&fontSize=30&fontAlignY=80&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Remarkable&fontSize=20&fontAlignY=80&fontColor=FFFFFF"/>
 
 </div>
