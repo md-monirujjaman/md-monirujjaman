@@ -186,29 +186,45 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 ---
 
----
 
 
+## ❖ &nbsp;Developer Philosophy
 
-## 🤝 Let's Collaborate
+<div align="center">
 
-<p align="center">
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-🚀 **Open for Opportunities**
+<br/>
 
-Freelance Projects • Remote Jobs • Real-world Applications • Open Source Collaboration  
+> *"I don't just build websites; I engineer digital ecosystems where imagination meets pixel-perfect execution."*
+> 
+> **— MD Monirujjaman**
 
-</p>
-
-<p align="center">
-📩 <strong>Email:</strong> 
-<a href="mailto:contact.monirujjaman@gmail.com">
-contact.monirujjaman@gmail.com
-</a>
-</p>
+</div>
 
 ---
 
+
+
+## ❖ &nbsp;Open to Collaboration
+
+<div align="center">
+
+**Looking to synergize with innovative teams to build scalable MERN applications and explore the frontier of AI-driven web solutions.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://linkedin.com/in/mdmonirujjaman-dev)&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:contact.mdmonirujjaman@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://monirujjaman.pro.bd/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=md-monirujjaman&color=0f0c29&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
 ## 🌟 Support My Work
 
 <p align="center">
@@ -216,18 +232,7 @@ If you like my projects, consider giving them a ⭐
 It motivates me to build more amazing things!
 </p>
 
----
-
-<div align="center">
-
-### 🚀 *"I don't just build websites; I engineer digital ecosystems where imagination meets pixel-perfect execution."*
-
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20Views&color=0f0c29&style=for-the-badge" />
-
-
-<br><br>
 
 ✨ **Thanks for visiting my profile** ✨  
 
