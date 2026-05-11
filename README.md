@@ -169,28 +169,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌟 Aethera — Neural-Interface Portfolio Assistant
-**Tech Stack:** React • Node.js • OpenAI API • Firebase • Framer Motion
-
-**Aethera** is an intelligent AI assistant integrated into my portfolio to provide real-time interaction for visitors. It goes beyond simple automation by managing intelligent data processing and personalized workflows.
-
-* **Intelligent Interaction:** Leverages OpenAI API to provide context-aware and precise responses to user queries.
-* **Motion UI:** Utilizes Framer Motion for a fluid, high-end user interface experience.
-* **Local Hosting Optimization:** Configured and deployed within a custom-built local hosting environment for maximum control.
-
----
-
-### 📊 Lumina Dash — Real-time Analytics Dashboard
-**Tech Stack:** React • Next.js • Firebase • Tailwind CSS
-
-A high-performance monitoring dashboard designed for visualizing complex data sets. This project showcases my ability to handle real-time data synchronization and modern UI patterns.
-
-* **Real-time Sync:** Integrated with Firebase Firestore for instant data updates across all connected clients.
-* **Dynamic Data Viz:** Features interactive charts and responsive layouts built with Tailwind CSS.
-* **Optimized Performance:** Built with Next.js to ensure lightning-fast load times and SEO-friendly structures.
----
 
 
 
@@ -213,17 +192,7 @@ A high-performance monitoring dashboard designed for visualizing complex data se
 
 ---
 
-## 🎓 Education & Certifications
 
-🎓 **Bachelor of Science in Computer Science & Engineering**  
-📍 1st Year Student (2026)
-
-✅ Secondary School Certificate (SSC)  
-✅ Higher Secondary Certificate (HSC)  
-✅ NSDA Certified  
-✅ Youth Development Training Program (DYD) 
-
----
 
 ## 🤝 Let's Collaborate
 
