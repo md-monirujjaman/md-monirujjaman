@@ -245,12 +245,6 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 </p>
 
-<br>
-
-> ✨ **Thanks for visiting my profile** ✨  
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Remarkable&fontSize=20&fontAlignY=80&fontColor=FFFFFF"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=20&fontAlignY=80&fontColor=a89fd4" width="100%"/>
 </div>
