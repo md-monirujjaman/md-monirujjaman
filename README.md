@@ -170,12 +170,11 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> GitHub Analytics</h1> 
 
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=md-monirujjaman&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=md-monirujjaman&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=FFFFFF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=FFFFFF&dates=7c3aed" />
 
 <br>
   
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-monirujjaman&theme=react-dark&hide_border=true&area=true" />
+[![Monir's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-monirujjaman&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/md-monirujjaman)
 
 </div>
 
