@@ -19,7 +19,9 @@
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdmonirujjaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.mdmonirujjaman@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF" />
+</a>
 </p>
 
 
@@ -224,7 +226,9 @@ Continuously strengthening my core engineering skills through Data Structures an
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://linkedin.com/in/mdmonirujjaman-dev)&nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:contact.mdmonirujjaman@gmail.com)&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.mdmonirujjaman@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF" />
+</a>
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://monirujjaman.pro.bd/)
 
 <br/>
