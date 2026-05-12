@@ -4,30 +4,33 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=MD%20MONIRUJJAMAN&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Creative%20Soul%20%20|%20%20Code%20Obsessed%20%20|%20%20Future-Focused%20Developer&descAlignY=54&descAlign=65&fontColor=ffffff" />
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0f0c29&style=flat" />
-  <img src="https://img.shields.io/github/followers/md-monirujjaman?label=Followers&style=flat&color=0f0c29" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-0f0c29" />
-</p>
+
 
 <br>
-
+```
 <img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Web+Developer+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+Building+Scalable+Web+Applications+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
+```
+<br><br>
 
-<br>
+
+
 
 <p align="center">
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdmonirujjaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-
 </p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0f0c29&style=flat" />
+  <img src="https://img.shields.io/github/followers/md-monirujjaman?label=Followers&style=flat&color=0f0c29" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-0f0c29" />
+
+
 </div>
 
----
+
 
 ## 🎯 Current Focus
 
