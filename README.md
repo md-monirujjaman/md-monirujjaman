@@ -36,21 +36,25 @@
 
 ## 🎯 Current Focus
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+    <td align="center" width="50%" style="border: 1px solid #0f0c29; border-radius: 10px; padding: 10px;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
       <br>
-      <strong>🔭 Currently Working On</strong>
+      <strong style="color: #9D8FFF;">🔭 Currently Working On</strong>
       <br>
-      <code>Aethera AI</code> - Custom AI Assistant Platform
+      <a href="https://github.com/md-monirujjaman" style="text-decoration: none;">
+        <code style="color: #9D8FFF; background-color: #0f0c29; padding: 2px 5px; border-radius: 5px;">Aethera AI</code>
+      </a> 
+      <br>
+      <span style="color: #FFFFFF; font-size: 0.9em;">Custom AI Assistant Platform</span>
     </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+    <td align="center" width="50%" style="border: 1px solid #0f0c29; border-radius: 10px; padding: 10px;">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
       <br>
-      <strong>🌱 Currently Learning</strong>
+      <strong style="color: #9D8FFF;">🌱 Currently Learning</strong>
       <br>
-      Advanced System Design & AI/ML Integration
+      <span style="color: #FFFFFF; font-size: 0.9em;">Advanced System Design & AI/ML</span>
     </td>
   </tr>
 </table>
