@@ -126,6 +126,21 @@ Continuously strengthening my core engineering skills through Data Structures an
 </h1>
 
 
+### ⚙️ Programming Language
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0f0c29?style=for-the-badge&logo=c%2B%2B&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=9D8FFF" />
+  <img src="https://img.shields.io/badge/Assembly-0f0c29?style=for-the-badge&logo=assembly&logoColor=9D8FFF" />
+</p>
+
 ### ⚡ Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=white"/>
