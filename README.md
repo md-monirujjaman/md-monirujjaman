@@ -20,12 +20,8 @@
   <a href="https://facebook.com/mdmonirujjaman.dev"><img src="https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-  <br>
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-0f0c29?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-0f0c29?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/-HackerRank-0f0c29?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+
 </p>
 </div>
 
@@ -188,21 +184,20 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 
 
-## ❖ &nbsp;Developer Philosophy
+## ❖ &nbsp;Competitive Coding
+<p align="center">
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-0f0c29?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-0f0c29?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/-HackerRank-0f0c29?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 
 > *"I don't just build websites; I engineer digital ecosystems where imagination meets pixel-perfect execution."*
 > 
 > **— MD Monirujjaman**
 
-</div>
+</p>
 
----
 
 
 
@@ -210,7 +205,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 <div align="center">
 
-**Looking to synergize with innovative teams to build scalable MERN applications and explore the frontier of AI-driven web solutions.**
+> **Looking to synergize with innovative teams to build scalable MERN applications and explore the frontier of AI-driven web solutions.**
 
 <br/>
 
@@ -225,18 +220,22 @@ Continuously strengthening my core engineering skills through Data Structures an
 </div>
 
 <br>
-## 🌟 Support My Work
+
+> ## 🌟 Support My Work
 
 <p align="center">
-If you like my projects, consider giving them a ⭐  
-It motivates me to build more amazing things!
+  
+> If you like my projects, consider giving them a ⭐  It motivates me to build more amazing things!
+
+
+
 </p>
 
 <br>
 
-✨ **Thanks for visiting my profile** ✨  
+> ✨ **Thanks for visiting my profile** ✨  
 
-<br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Remarkable&fontSize=20&fontAlignY=80&fontColor=FFFFFF"/>
 
