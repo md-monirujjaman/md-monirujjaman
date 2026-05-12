@@ -114,7 +114,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 <div align="center">
 <h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">
-  Tech Stack & Tools
+ ❖ Tech Stack & Tools ❖
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">
 </h1>
 
@@ -171,7 +171,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 <div align="center">
 
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> 
-  GitHub Analytics
+ ❖ GitHub Analytics ❖
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h1> 
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=md-monirujjaman&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=FFFFFF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=FFFFFF&dates=7c3aed" />
@@ -187,7 +187,10 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 
 
-## ❖ &nbsp;Competitive Coding
+##
+<h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
+❖ &nbsp;Competitive Coding ❖ 
+</h1>
 <p align="center">
 
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
@@ -204,7 +207,10 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 
 
-## ❖ &nbsp;Open to Collaboration
+## 
+<h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
+❖ &nbsp;Open to Collaboration ❖
+</h1>
 
 <div align="center">
 
@@ -224,7 +230,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 
 <br>
 
-> ## 🌟 Support My Work
+> ## ❖ Support My Work ❖
 
 <p align="center">
   
