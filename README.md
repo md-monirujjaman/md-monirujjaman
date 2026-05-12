@@ -5,14 +5,16 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/md-monirujjaman?label=Followers&style=social" />
- 
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=0f0c29&style=flat" />
+  <img src="https://img.shields.io/github/followers/md-monirujjaman?label=Followers&style=flat&color=0f0c29" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-0f0c29" />
 </p>
 
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Web+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;;Lifelong+Learner" />
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Web+Developer+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+Building+Scalable+Web+Applications+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
+
+<br>
 
 <p align="center">
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=todoist&logoColor=white" /></a>
