@@ -187,13 +187,6 @@ Continuously strengthening my core engineering skills through Data Structures an
   <img src="https://github-profile-trophy.vercel.app/?username=md-monirujjaman&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-
-
-
-
-
-
-
 <div align="center">
 
 <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> 
@@ -207,11 +200,6 @@ Continuously strengthening my core engineering skills through Data Structures an
 [![Monir's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-monirujjaman&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/md-monirujjaman)
 
 </div>
-
-
-
-
-
 
 ##
 <h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
@@ -229,10 +217,6 @@ Continuously strengthening my core engineering skills through Data Structures an
 > **— MD Monirujjaman**
 
 </p>
-
-
-
-
 ## 
 <h1 style="font-size: 2.5rem; font-style: italic; font-weight: bold;">
 ❖ &nbsp;Open to Collaboration ❖
@@ -263,11 +247,6 @@ Continuously strengthening my core engineering skills through Data Structures an
 <p align="center">
   
 > If you like my projects, consider giving them a ⭐  It motivates me to build more amazing things!
-
-
-
 </p>
-
- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=20&fontAlignY=80&fontColor=a89fd4" width="100%"/>
 </div>
