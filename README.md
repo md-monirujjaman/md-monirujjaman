@@ -198,7 +198,7 @@ Continuously strengthening my core engineering skills through Data Structures an
 </h1>
 <p align="center">
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://leetcode.com/mdmonirujjaman"><img src="https://img.shields.io/badge/-LeetCode-0f0c29?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME"><img src="https://img.shields.io/badge/-Codeforces-0f0c29?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/-CodeChef-0f0c29?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/-HackerRank-0f0c29?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
