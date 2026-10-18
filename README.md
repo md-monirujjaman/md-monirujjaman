@@ -35,7 +35,7 @@
       <strong style="color: #9D8FFF;">🔭 Currently Working On</strong>
       <br>
       <a href="https://github.com/md-monirujjaman" style="text-decoration: none;">
-        <code style="color: #9D8FFF; background-color: #0f0c29; padding: 2px 5px; border-radius: 5px;">Aethera AI</code>
+        <code style="color: #9D8FFF; background-color: #0f0c29; padding: 2px 5px; border-radius: 5px;">OrmiTech IT</code>
       </a> 
       <br>
       <span style="color: #FFFFFF; font-size: 0.9em;">Custom AI Assistant Platform</span>
