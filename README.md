@@ -38,7 +38,7 @@
         <code style="color: #9D8FFF; background-color: #0f0c29; padding: 2px 5px; border-radius: 5px;">OrmiTech IT</code>
       </a> 
       <br>
-      <span style="color: #FFFFFF; font-size: 0.9em;">Custom AI Assistant Platform</span>
+      <span style="color: #FFFFFF; font-size: 0.9em;">AI-Powered Customer Communication Platform</span>
     </td>
     <td align="center" width="50%" style="border: 1px solid #0f0c29; border-radius: 10px; padding: 10px;">
       <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
